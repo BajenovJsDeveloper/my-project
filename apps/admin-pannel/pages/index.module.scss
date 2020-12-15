@@ -1,0 +1,12 @@
+.main{
+	display: flex;
+	justify-content: center;
+	&__text{
+		display: flex;
+		justify-content: center;
+		width: 100%;
+		font-size: 30px;
+		padding: 20px;
+		background-color: rgba(221, 221, 221, 0.5)
+	}
+}
